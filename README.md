@@ -1,1 +1,3 @@
-# Projeto-Mercado
+# mercadinho
+
+A new Flutter project.
